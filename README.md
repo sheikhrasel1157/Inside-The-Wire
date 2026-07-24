@@ -497,6 +497,9 @@ text
 
 Simply open `index.html` in a modern web browser. No build step or server required.
 
+## Live Link of of the Project
+You can visit the live application here: [Inside the Wire](https://inside-the-wire.netlify.app/)
+
 ## Technologies Used
 
 - Pure HTML, CSS, and JavaScript
