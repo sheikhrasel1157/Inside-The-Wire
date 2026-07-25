@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inside-the-wire.netlify.app/sitemap.xml
